@@ -22,7 +22,7 @@ command for termux.
 
 * `pkg  install python3`
 
-*  'pip install requests'
+*  `pip install requests`
 
 * `git clone https://github.com/DK1285/sms-flooder`
 
