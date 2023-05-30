@@ -26,7 +26,7 @@ command for termux.
 
 * `cd sms-flooder`
 
-* `python3 main.py`
+* `python3 sms-flooder.py`
 
 
 command for Debian.
@@ -41,7 +41,7 @@ command for Debian.
 
 * `cd sms-flooder`
 
-* `python3 main.py`
+* `python3 sms-flooder.py`
 
 
 
