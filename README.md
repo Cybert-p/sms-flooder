@@ -49,3 +49,7 @@ command for Debian.
 **Warning**
 
 We are not responsible for any misuse or damage caused by this program. use this tool for fun only!
+
+<h3>Visitors :</h3>
+<br>
+<img src="https://profile-counter.glitch.me/DK1285/count.svg" alt="Visitors">
