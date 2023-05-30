@@ -22,20 +22,7 @@ command for termux.
 
 * `pkg  install python3`
 
-* `git clone https://github.com/DK1285/sms-flooder`
-
-* `cd sms-flooder`
-
-* `python3 sms-flooder.py`
-
-
-command for Debian.
-
-* `sudo apt update`
-
-* `sudo apt upgrade`
-
-* `sudo install git`
+*  pip install requests
 
 * `git clone https://github.com/DK1285/sms-flooder`
 
