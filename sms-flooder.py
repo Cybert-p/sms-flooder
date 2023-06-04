@@ -50,7 +50,7 @@ def about():
 {bcyan}[-]This tool is Created By Cyber Army
 
 {yellow}Author    :  Cyber DK And Cyber TP
-Github    :  https://github.com/dk___1285
+Github    :  https://github.com/DK1285
 Github    :  https://github.com/cybert-p
 Version   :  1.0
 
