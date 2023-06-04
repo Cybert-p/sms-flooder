@@ -48,8 +48,8 @@ def about():
     print(f"""
 {bcyan}[-]This tool is Created By Cyber-D Army
 
-{yellow}Author    :  Cyber DK
-Github    :  https://github.com/cyber-d-dk
+{yellow}Author    :  Cyber DK And Cyber TP
+Github    :  https://github.com/DK1285
 Telegram  :  https://t.me/cyber_dk
 Discord   :  https://discord.gg/v8FVzsuH
 Version   :  1.0
@@ -68,7 +68,10 @@ any misuse of this toolkit !
     option=input(f"{bred}Choose an option:{white}")
     try:
         if option=="1":
-            os.system("xdg-open https://www.instagram.com/dk___1285/ > /dev/null 2>&1 &")
+            os.system("xdg-open https://www.instagram.com/cyber___dk/ > /dev/null 2>&1 &")
+        if option=="2":
+
+            os.system("xdg-open https://www.instagram.com/cyber_tp/ > /dev/null 2>&1 &")
         elif option=="0":
             logic()
         else:
