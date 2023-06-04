@@ -75,7 +75,6 @@ any misuse of this toolkit !
             os.system("xdg-open https://www.instagram.com/cyber_tp/ > /dev/null 2>&1 &")
 
         elif option=="0":
-        elif option=="0":
             logic()
         else:
             print(f"{red}Invlied Option....")
