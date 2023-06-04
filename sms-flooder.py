@@ -69,7 +69,7 @@ any misuse of this toolkit !
     try:
         if option=="1":
             os.system("xdg-open https://www.instagram.com/cyber___dk/ > /dev/null 2>&1 &")
-        if option=="2":
+        elif option=="2":
 
             os.system("xdg-open https://www.instagram.com/cyber_tp/ > /dev/null 2>&1 &")
         elif option=="0":
